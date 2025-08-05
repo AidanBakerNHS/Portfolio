@@ -1,7 +1,7 @@
 # _config.yml
 title: “Aidan Baker”  
-email: your.email@example.com  
 description: “Data Scientist | Machine Learning | Visualization”  
+theme: minimal-mistakes-jekyll
 
 # enable collections
 collections:

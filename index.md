@@ -28,13 +28,14 @@ XXX
     <img
       src="assets/project-steam.png"
       alt="STEAM Project"
-      style="width:100px; border-radius:4px;"
+      style="width:50px; border-radius:4px;"
     />
   </a>
 
   <div>
-	<br>
-    XXXXXXXXX
+  <br>
+    <p><strong>This project dives into the underlying data of games released on Steam.</strong></p>
+    <p>It features a comprehensive exploratory data analysis and a machine learning pipeline that tests whether publicly available metrics can predict a game’s success. Interactive Python notebook visualizations bring those insights to life.</p>
   </div>
 
 </div>
@@ -42,4 +43,4 @@ XXX
 ---
 
 ## ✉️ Contact  
-📧 XXXX
+📧 aidan.baker@nhs.net

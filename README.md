@@ -1,6 +1,6 @@
 ---
 layout: single
-title: “Aidan Baker”
+title: Aidan Baker
 permalink: /
 toc: true           # adds a floating table of contents
 ---

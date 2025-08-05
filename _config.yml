@@ -1,15 +1,4 @@
 title: Aidan Baker
 logo: /assets/logo.png
-description: "Data Scientist | Machine Learning | Visualization"
-theme: minimal-mistakes-jekyll
-baseurl: "/Portfolio"
-url: "https://aidanbakernhs.github.io"
-
-
-collections:
-  projects:
-    output: true
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+#description: text below logo
+theme: jekyll-theme-minimal

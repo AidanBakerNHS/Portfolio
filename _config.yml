@@ -8,6 +8,3 @@ collections:
   projects:
     output: true
     
-   
-include:
-  - assets/css/style.css

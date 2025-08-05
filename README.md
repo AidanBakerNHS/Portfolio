@@ -21,22 +21,12 @@ XXXX
 
 ## 💼 Projects
 
-{% for project in site.projects %}
-### [{{ project.title }}]({{ project.url | default: project.path }})
-<picture>
-  <img src="{{ project.image }}" alt="{{ project.title }}" style="max-width:100%;border-radius:8px;"/>
-</picture>
-**Date:** {{ project.date | date: "%b %e, %Y" }}  
-**Categories:** {{ project.categories | join: ", " }}  
-
-{{ project.excerpt }}
-
-- 🔗 [GitHub Repo]({{ project.github | default: "#" }})
+XXXX
 
 
 ## ✉️ Contact
 
-- 📧 your.email@example.com  
+- XXX
 
 ---
 

@@ -3,11 +3,6 @@ logo: /assets/logo.png
 description: "Data Scientist | Machine Learning | Visualization"
 theme: jekyll-theme-minimal
 
-<style>
-  :root {
-    --sidebar-width: 10rem;
-  }
-</style>
 
 collections:
   projects:

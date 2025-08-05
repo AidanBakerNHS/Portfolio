@@ -28,11 +28,12 @@ XXX
     <img
       src="assets/project-steam.png"
       alt="STEAM Project"
-      style="width:150px; border-radius:4px;"
+      style="width:100px; border-radius:4px;"
     />
   </a>
 
   <div>
+	<br>
     XXXXXXXXX
   </div>
 

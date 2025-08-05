@@ -1,4 +1,8 @@
-title: Aidan Baker
+title: "Aidan Baker"
 logo: /assets/logo.png
-#description: text below logo
+description: "Data Scientist | Machine Learning | Visualization"
 theme: jekyll-theme-minimal
+
+collections:
+  projects:
+    output: true

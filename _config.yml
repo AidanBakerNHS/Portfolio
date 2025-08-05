@@ -1,4 +1,14 @@
-title: Aidan Baker
-logo: /assets/logo.png
-#description: text below logo
-theme: jekyll-theme-minimal
+# _config.yml
+title: “Aidan Baker”  
+email: your.email@example.com  
+description: “Data Scientist | Machine Learning | Visualization”  
+
+# enable collections
+collections:
+  projects:
+    output: true
+
+# plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag

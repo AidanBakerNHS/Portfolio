@@ -1,35 +1,25 @@
 ---
-layout: home
+layout: default
 title: "Aidan Baker"
-subtitle: "Turning raw data into clear insights"
-hero_image: /assets/logo.png
 permalink: /
 ---
 
-<!-- inline style to shrink the left sidebar -->
-<style>
-  :root {
-    --sidebar-width: 10rem;
-  }
-</style>
-
 # Aidan Baker - Data Science Portfolio
 
-## 🚀 Experience
+## 🚀 Experience  
 XXX
 
 ---
 
-## 🎓 Education
+## 🎓 Education  
 XXX
 
 ---
 
-## 💼 Projects
+## 💼 Projects  
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 2rem;">
 
-  <!-- Left: clickable thumbnail -->
   <a
     href="https://github.com/AidanBakerNHS/SteamAppDataVisulisation"
     target="_blank"
@@ -50,5 +40,5 @@ XXX
 
 ---
 
-## ✉️ Contact
+## ✉️ Contact  
 📧 XXXX

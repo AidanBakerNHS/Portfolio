@@ -1,14 +1,12 @@
-# _config.yml
-title: “Aidan Baker”  
-description: “Data Scientist | Machine Learning | Visualization”  
+title: “Aidan Baker”
+logo: /assets/logo.png
+description: “Data Scientist | Machine Learning | Visualization”
 theme: minimal-mistakes-jekyll
 
-# enable collections
 collections:
   projects:
     output: true
 
-# plugins
 plugins:
   - jekyll-feed
   - jekyll-seo-tag

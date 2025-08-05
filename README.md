@@ -1,34 +1,33 @@
----
-layout: home
-title: "Aidan Baker"
-subtitle: "Turning raw data into clear insights"
-hero_image: /assets/logo.png
-permalink: /
----
+# Aidan Baker - Data Science Portfolio
 
-<nav class="toc">
-  <a href="#experience">Experience</a>
-  <a href="#education">Education</a>
-  <a href="#projects">Projects</a>
-  <a href="#contact">Contact</a>
-</nav>
-
-## 🚀 Experience {#experience}
-
-XXX
----
-
-## 🎓 Education {#education}
-
-XXX
----
-
-## 💼 Projects {#projects}
-
+## 🚀 Experience
 XXX
 
----
+## 🎓 Education
+XXX
 
-## ✉️ Contact {#contact}
+## 💼 Projects
 
-📧 XXX
+<div style="display: flex; align-items: flex-start; margin-bottom: 2rem;">
+
+  <!-- Left: clickable thumbnail -->
+  <a href="https://github.com/AidanBakerNHS/SteamAppDataVisulisation" target="_blank" style="flex-shrink: 0; margin-right: 1rem;">
+    <img
+      src="/assets/project-steam.png"
+      alt="Project Thumbnail"
+      style="width:150px; border-radius:4px;"
+    />
+  </a>
+
+  <!-- Right: title & description -->
+  <div>
+    ### [Project Title](https://github.com/AidanBakerNHS/SteamAppDataVisulisation)
+    XXXXXXXXX
+  </div>
+
+</div>
+
+_…repeat the block above for each new project…_
+
+## ✉️ Contact
+📧 your.email@example.com

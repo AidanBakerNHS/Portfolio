@@ -1,3 +1,9 @@
+---
+<style>
+  :root {
+    --sidebar-width: 10rem;
+  }
+</style>
 # Aidan Baker - Data Science Portfolio
 
 ## 🚀 Experience
@@ -21,7 +27,6 @@ XXX
 
   <!-- Right: title & description -->
   <div>
-    ### [Steam Data Visualization](https://github.com/AidanBakerNHS/SteamAppDataVisulisation)
     XXXXXXXXX
   </div>
 
@@ -30,3 +35,4 @@ XXX
 
 ## ✉️ Contact
 📧 XXXX
+---

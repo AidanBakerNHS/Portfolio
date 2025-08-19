@@ -70,8 +70,6 @@ Since September 2024 I have worked as an Apprentice Data Scientist within the Co
   </div>
 </div>
 
-</div>
-
 ---
 
 ## ✉️ Contact  

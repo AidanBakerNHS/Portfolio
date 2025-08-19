@@ -22,7 +22,7 @@ Since September 2024 I have worked as an Apprentice Data Scientist within the Co
 
 • FdSc Computer Technology - 2:1 (2019 - 2021)
 
-• BTEC National Diploma In IT - D*D*D* (2017 - 2019)
+• BTEC National Diploma In IT - D\*D\*D\* (2017 - 2019)
 
 ---
 

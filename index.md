@@ -51,7 +51,7 @@ Since September 2024 I have worked as an Apprentice Data Scientist within the Co
       Machine Learning DNA Predictor for Outpatients
     </h3>
     <p style="margin-top:0;">
-      Overhauled RCHT's machine learning model to predict patient "Did Not Attend" instances, <strong>increasing predictive recall from 5% to 15%</strong> while maintaining precision, enabling more effective intervention.
+      Overhauled RCHT's machine learning model to predict patient "Did Not Attend" instances, <strong>increasing predictive recall from 5% to 15%</strong> while maintaining precision to enable effective intervention to reduce DNA rates.
     </p>
   </div>
 </div>
